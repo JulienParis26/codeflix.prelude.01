@@ -11,4 +11,6 @@ function length(str) {
     return i
 }
 
-console.log(length('Bonjour'))
+console.log(length(str))
+
+// OR => console.log(length('Bonjour'))

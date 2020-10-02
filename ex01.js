@@ -1,7 +1,7 @@
 function lowerCase(str = '') {
     let sentence = ''
 
-    for(let i = 0; i < str.length; i++) {
+    for (let i = 0; i < str.length; i++) {
         const code = str.charCodeAt(i)
 
         if (code >= 65 && code <= 90) {
